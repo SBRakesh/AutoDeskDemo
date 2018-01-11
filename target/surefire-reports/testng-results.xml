@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5370" started-at="2017-12-19T12:36:20Z" finished-at="2017-12-19T12:36:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5370" started-at="2017-12-19T12:36:20Z" finished-at="2017-12-19T12:36:26Z">
+      <class name="com.autodesk.Demo">
+        <test-method status="PASS" signature="testA()[pri:0, instance:com.autodesk.Demo@610694f1]" name="testA" duration-ms="5338" started-at="2017-12-19T04:36:20Z" finished-at="2017-12-19T04:36:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- com.autodesk.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
